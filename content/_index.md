@@ -1,3 +1,3 @@
 ---
-title: "This is the homepage"
+title: "Christoph Geypen - Digital Marketing Specialist"
 ---
